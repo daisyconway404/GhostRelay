@@ -1,0 +1,7 @@
+imgkit==1.2.0
+qrcode==7.4.2
+requests==2.31.0
+python-docx==0.8.11
+xhtml2pdf==0.2.11
+colorama==0.4.6
+concurrent-log-handler==0.9.24
